@@ -3,7 +3,7 @@ layout: post
 title:  "Intorducing Mlogs"
 author: satya
 categories: [ blog, mlog ]
-image: assets/images/mlogs/mlogs.png
+image: assets/img/mlogs/mlogs.png
 tags: [blog, mlog, introduction, series]
 ---
 
@@ -17,7 +17,7 @@ You can read these mlogs easily using instant view in [telegram](https://t.me/De
 
 #### Why Mlogs?
 
-![Why Mlogs]({{ site.baseurl}}/assets/images/mlogs/why-mlogs.png)
+![Why Mlogs]({{ site.baseurl}}/assets/img/mlogs/why-mlogs.png)
 
 Being a techster we want to explore more things related to tech and we feel very interesting to keep updated with updated news and applications.
 

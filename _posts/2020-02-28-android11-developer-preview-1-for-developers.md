@@ -3,7 +3,7 @@ layout: post
 title:  "Some new Android 11 Features for developers"
 author: puneeth
 categories: [ android ]
-image: assets/images/android11.png
+image: assets/img/android11.png
 tags: [google, android]
 ---
 
@@ -37,7 +37,7 @@ Device makers like POCO, RealMe, Xiaomi, Nokia etc.. continuing to innovate by b
 
 + **Easier testing and debugging** - To help you test for compatibility, it had made many of the breaking changes toggleable - meaning that you can force-enable or disable the changes individually from Developer options or adb. With this change, there’s no longer a need to change targetSdkVersion or recompile your app for basic testing. [ Check out the details here](https://developer.android.com/preview/test-changes).
 
-<img src="{{ site.baseurl }}/assets/images/android/App-compatibility-toggles-in-Developer-Options.png" alt="App compatibility toggles in Developer Options" style="width:350px; border:0;"/> 
+<img src="{{ site.baseurl }}/assets/img/android/App-compatibility-toggles-in-Developer-Options.png" alt="App compatibility toggles in Developer Options" style="width:350px; border:0;"/> 
 
 There are also Updated greylists, Dynamic resource loader, New platform stability milestone in the new preview.
 

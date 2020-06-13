@@ -3,7 +3,7 @@ layout: post
 title:  "Sony unveils the PlayStation 5’s futuristic design"
 author: mohit
 categories: [Tech, gaming]
-image: assets/images/sony/PS5.jpg
+image: assets/img/sony/PS5.jpg
 tags: [Sony, PlayStation, Console]
 ---
 
@@ -17,7 +17,7 @@ Talking about the looks and design, we think the two-tone design of the PS5, whi
 #### Accessories:
 The PS5 is accompanied by several other accessories, which sony showed on the event. The first being the Dual Sense Controller which also comes with the dual-tone finish similar to that of the PlayStation.We also find the Dual-Sense Stand to charge two controllers at once and that looks pretty cool. For all those how to remember the pulse wireless gaming headset which sony came out years ago, The successor of that the Pulse 3D wireless is here and that looks minimal with the two-tone design and promises to offer a fully immersive sound experience. It also comes with an HD camera following a similar two-tone vibe.PS5 standard edition will also come with a remote to use your PS5 as a regular Blu-ray player.
 
-![Playstion 5 and it's acessories ]({{ site.baseurl}}/assets/images/sony/ps5-family.jpg)
+![Playstion 5 and it's acessories ]({{ site.baseurl}}/assets/img/sony/ps5-family.jpg)
 
 #### Specs:
 Taking about some feature which we know so far, It will be coming with a proprietary SSD to reduce the load times. The console will be powered by eight-core AMD Zen 2 CPU and a custom AMD RDNA 2-based GPU. This CPU and GPU will support 8K graphics, 4K graphics at a 120Hz refresh rate, and 3D audio. It will also have Ray tracing support. Sony also previously said that it will support backward compatibility for some games, how many and which games only time has the answer.

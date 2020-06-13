@@ -3,7 +3,7 @@ layout: post
 title:  Poco F2 Pro Launched, Here are Specs and pricing
 author: mohit
 categories: [ Poco, Mi, smartphones ]
-image: assets/images/mi/poco/pocof2_pro_feature.jpg
+image: assets/img/mi/poco/pocof2_pro_feature.jpg
 tags: [poco, redmi, mi, smartphones]
 ---
 
@@ -34,14 +34,14 @@ has an in-display fingerprint sensor on the front as well. The rear panel has a 
 This phone now comes with a glass sandwitch design put together by an aluminum frame, which is way superior compared to the polycarbonate build its predecessor(Poco F1) comes with. This phone comes with a 6.67-inch Full-HD+ AMOLED display with a 20:9 aspect ratio. We are disappointed to see a 60Hz display in 2020 but at least it comes with 180Hz touch sampling rate and a peak brightness close to 1200nits. This display also brings with it support for HDR 10+. We can also set different color types like Enhanced, Original, P3, sRGB.
 
 <p align="center">
-  <img width="75%" src="{{site.baseurl}}/assets/images/mi/poco/pocof2-pro-display.jpg">
+  <img width="75%" src="{{site.baseurl}}/assets/img/mi/poco/pocof2-pro-display.jpg">
 </p>
 
 **Camera**:
 The F2 Pro comes with a quad-camera array in the circular cutout on the rear. The primary sensor is the 64MP Sony IMX686 sensor, along with a 13MP (f/2.4) ultra-wide-angle lens with 123-degree FOV, a 5MP telephoto macro camera and a 2MP depth sensor. The phone also supports 8k video capture. On the selfie side of things it comes with a 20MP pop-up camera with support for slow-motion video and other cool features. We think the pop-up cameras are not the one everyone liked.
 
 <p align="center">
-  <img width="75%" src="{{site.baseurl}}/assets/images/mi/poco/pocof2-pro-camera.jpg">
+  <img width="75%" src="{{site.baseurl}}/assets/img/mi/poco/pocof2-pro-camera.jpg">
 </p>
 
 **Connectivity**:

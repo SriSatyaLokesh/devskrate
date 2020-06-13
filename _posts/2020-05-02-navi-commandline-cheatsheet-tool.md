@@ -3,7 +3,7 @@ layout: post
 title:  Navi - An interactive commandline cheatsheet tool
 author: satya
 categories: [ Linux, mlog, commandline ]
-image: assets/images/mlogs/navi/navi.png
+image: assets/img/mlogs/navi/navi.png
 tags: [dev-linux, mlogs, navi, linux]
 ---
 
@@ -26,7 +26,7 @@ from now you will never say any of these.
 - Damn, it's almost what I wanted but I need to change some args
 
 See how cool navi is - 
-![navi-demo]({{ site.baseurl}}/assets/images/mlogs/navi/navi-demo.gif)
+![navi-demo]({{ site.baseurl}}/assets/img/mlogs/navi/navi-demo.gif)
 
 #### Pros of navi
 - it will make you type less;
@@ -35,7 +35,7 @@ See how cool navi is -
 - **Open Source tool**
 
 It can be either used as a command or as a shell widget (Ctrl-R).
-![navi-demo]({{ site.baseurl}}/assets/images/mlogs/navi/navi-demo2.gif)
+![navi-demo]({{ site.baseurl}}/assets/img/mlogs/navi/navi-demo2.gif)
 
 #### Installation
 

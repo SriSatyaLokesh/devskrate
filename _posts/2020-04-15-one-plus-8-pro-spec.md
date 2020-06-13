@@ -3,7 +3,7 @@ layout: post
 title:  One Plus 8 pro - The Real Flagship
 author: mohit
 categories: [ oneplus, android, mobile ]
-image: assets/images/oneplus/oneplus8-pro-display.jpg
+image: assets/img/oneplus/oneplus8-pro-display.jpg
 tags: [oneplus, android, google]
 ---
 
@@ -35,12 +35,12 @@ still manages to undercut the iphone 11 and galaxy s20.
 * Talking about the design, it has a single punch hole curved display similar to galaxy s10.
 * The highlight of this phone has to be its **120Hz AMOLED** display which DisplayMate rated as an A+ display.(For people who are unaware of DisplayMate its like DXO Mark for Displays).
 
-![2020 oneplus 8 ]({{ site.baseurl}}/assets/images/oneplus/oneplus8-pro-front.jpg)
+![2020 oneplus 8 ]({{ site.baseurl}}/assets/img/oneplus/oneplus8-pro-front.jpg)
 
 * Coming to the camera its a quad camera setup and on paper can take on the other flagships nicely.
 * The Build quality with its glass body attached together by a metal has always been good but this time it also added dust and water resistance which is rated as IP 68(fit enough to withstand dust, dirt and sand and are resistant to submersion up to a maximum depth of 1.5m underwater for up to thirty minutes).
 
-![2020 oneplus 8 ]({{ site.baseurl}}/assets/images/oneplus/oneplus8-pro-f-b.jpg)
+![2020 oneplus 8 ]({{ site.baseurl}}/assets/img/oneplus/oneplus8-pro-f-b.jpg)
 
 * Taking about battery life, this phone comes with a 4510mAH capacity which is fairly good enough.
 

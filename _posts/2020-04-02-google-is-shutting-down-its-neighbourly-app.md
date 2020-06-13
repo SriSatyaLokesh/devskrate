@@ -3,7 +3,7 @@ layout: post
 title:  "Google is shutting down its Neighbourly app"
 author: nikhil
 categories: [ Google, Apps ]
-image: assets/images/google/neighbourly.jpg
+image: assets/img/google/neighbourly.jpg
 tags: [google, neighbourly, apps]
 ---
 

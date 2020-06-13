@@ -3,7 +3,7 @@ layout: post
 title:  "Creating browser extensions"
 author: puneeth
 categories: [ Extensions, Browser]
-image: assets/images/internet/bored-internet.jpg
+image: assets/img/internet/bored-internet.jpg
 tags: [extensions, browser, script]
 ---
 
@@ -112,7 +112,7 @@ Extensions can have many forms of a user interface, but this one will use a popu
         "128": "images/get_started128.png"
       }
 ```
-Download the images <a href="{{site.baseurl}}/assets/images/browser/chrome/chrome-extensions-images.zip" download="images">here</a>.
+Download the images <a href="{{site.baseurl}}/assets/img/browser/chrome/chrome-extensions-images.zip" download="images">here</a>.
 + There is also need of images for permissions warning, and favicon. These images are designated in the `manifest.json` under `icons`
 ```json
 "icons": {

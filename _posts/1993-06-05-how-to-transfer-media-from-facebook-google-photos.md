@@ -3,7 +3,7 @@ layout: post
 title: "Transfer your media from Facebook to Google Phtos"
 author: nikhil
 categories: [tutorial]
-image: assets/images/internet/fb-tool-feature.jpg
+image: assets/img/internet/fb-tool-feature.jpg
 tags: [facebook]
 ---
 
@@ -15,22 +15,22 @@ So, how to transfer your photos and videos? Here's the way:
 
 **1.** Firstly, log into your Facebook account and click on the **down arrow** at the top end of the menu bar.
 
-<img src="{{ site.baseurl }}/assets/images/internet/fb-tool-down.png" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Toolt" border= "1px solid #555">
+<img src="{{ site.baseurl }}/assets/img/internet/fb-tool-down.png" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Toolt" border= "1px solid #555">
 
 **2.** Then select **Settings & privacy > Settings**.
 
-<img src="{{ site.baseurl }}/assets/images/internet/fb-tool-settings.png" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Tool" border= "1px solid #555">
+<img src="{{ site.baseurl }}/assets/img/internet/fb-tool-settings.png" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Tool" border= "1px solid #555">
 
 **3.** Now, go to **Your Facebook information** section and select **Transfer a copy of your photos or videos**.
 
-<img src="{{ site.baseurl }}/assets/images/internet/fb-tool-info.png" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Tool" border= "1px solid #555">
+<img src="{{ site.baseurl }}/assets/img/internet/fb-tool-info.png" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Tool" border= "1px solid #555">
 
 **4.** Here, enter your Facebook password, if prompted and choose the transfer destination as **Google Photos**.
 
-<img src="{{ site.baseurl }}/assets/images/internet/fb-tool-password.png" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Tool" border= "1px solid #555">
+<img src="{{ site.baseurl }}/assets/img/internet/fb-tool-password.png" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Tool" border= "1px solid #555">
 
 **5.** You can select either Photos or Videos and click **Next**, which takes you to authenticate Facebook to transfer your media to Google Photos.
 
-<img src="{{ site.baseurl }}/assets/images/internet/fb-tool-select.png" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Tool" border= "1px solid #555">
+<img src="{{ site.baseurl }}/assets/img/internet/fb-tool-select.png" alt="Facebook Data Transfer Tool" title="Facebook Data Transfer Tool" border= "1px solid #555">
 
 As of now, this tool can only transfer media to Google, but later expected to have multiple platforms as a part of the [Open Source Data Transfer Project](https://datatransferproject.dev/) formed by the alliance of Google, Facebook, Apple, Microsoft and Twitter back in 2018.

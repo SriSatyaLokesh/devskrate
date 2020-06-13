@@ -3,7 +3,7 @@ layout: post
 title:  "Creating a Simple python TelegramBot using Flask and deploying it in heroku."
 author: puneeth
 categories: [ tutorial ]
-image: assets/images/pytelebot/pythonbot-display.png
+image: assets/img/pytelebot/pythonbot-display.png
 tags: [python, bot, telegram, flask, heroku, sticky]
 ---
  Writing code for python telegram bot is easy. We add some extra things to integrate with telegram. Follow me you can build a bot easily.. 
@@ -16,7 +16,7 @@ This is the link for the official BotFather [https://t.me/BotFather](https://t.m
 + Remember the API_TOKEN is confidential, secure it.
 + Else your bot can be controlled by others.
 
-![New Bot]({{ site.baseurl }}/assets/images/pytelebot/new_bot.jpg)     ![New Bot Created]({{ site.baseurl }}/assets/images/pytelebot/bot_done.jpg)
+![New Bot]({{ site.baseurl }}/assets/img/pytelebot/new_bot.jpg)     ![New Bot Created]({{ site.baseurl }}/assets/img/pytelebot/bot_done.jpg)
 
 ##### Now we need to install some libraries for getting started
 `
@@ -165,9 +165,9 @@ web: python3 file_name.py
 **Don't change name of "requirements.txt" and "Procfile"('P' is capital).**
 Now, open github and create your repository, after that upload your file_name.py,requirements.txt and Procfile to github.
 Signup/Signin to heroku and Create a new app.
-![Connected to Heroku]({{ site.baseurl }}/assets/images/pytelebot/hd_connect.png)
+![Connected to Heroku]({{ site.baseurl }}/assets/img/pytelebot/hd_connect.png)
 Now, go to the Deploy section and now connect to github, then after type your repository name and connect it.
-![Bot deployed]({{ site.baseurl }}/assets/images/pytelebot/bot_deployed.png)
+![Bot deployed]({{ site.baseurl }}/assets/img/pytelebot/bot_deployed.png)
 
 Every thing is done. You are set to go
 Now press come down and press deploy branch.

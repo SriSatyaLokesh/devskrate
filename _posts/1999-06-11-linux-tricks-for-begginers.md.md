@@ -3,7 +3,7 @@ layout: post
 title: "Linux tricks and tips for beginners"
 author: puneeth
 categories: [Linux, Tutorial]
-image: assets/images/chromeos/install-chrome-os.jpg
+image: assets/img/chromeos/install-chrome-os.jpg
 tags: [Linux, beginner, os]
 ---
 
@@ -51,11 +51,11 @@ Sudo is a super user command used to passing the command as a super user.
 sudo gedit test.py
 ```
 <p align="center">
-  <img width="45%" style="border:0.5px solid black" alt="Sudo meme" src="{{site.baseurl}}/assets/images/linux/sudo-meme.jpeg">
+  <img width="45%" style="border:0.5px solid black" alt="Sudo meme" src="{{site.baseurl}}/assets/img/linux/sudo-meme.jpeg">
 </p>
 
 <p align="center">
-  <img width="45%" style="border:0.5px solid black" alt="Sudo meme" src="{{site.baseurl}}/assets/images/linux/sudo-meme-1.jpg">
+  <img width="45%" style="border:0.5px solid black" alt="Sudo meme" src="{{site.baseurl}}/assets/img/linux/sudo-meme-1.jpg">
 </p>
 
 #### 5. Shutdown and Restart:

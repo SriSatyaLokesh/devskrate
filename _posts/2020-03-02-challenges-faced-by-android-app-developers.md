@@ -3,7 +3,7 @@ layout: post
 title:  "Challenges Faced By Android App Developers"
 author: nikhil
 categories: [ android, google ]
-image: assets/images/android/challenges-android-developers.png
+image: assets/img/android/challenges-android-developers.png
 tags: [google]
 ---
 

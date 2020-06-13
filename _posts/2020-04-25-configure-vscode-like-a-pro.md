@@ -3,7 +3,7 @@ layout: post
 title:  "Configure your VS Code like a pro"
 author: satya
 categories: [ Devlopment, DevStuff, VisualStudioCode]
-image: assets/images/vscode/vscode-home.png
+image: assets/img/vscode/vscode-home.png
 tags: [developers, microsoft, vscode, DevStuff, configuring, featured]
 ---
 
@@ -31,7 +31,7 @@ Download from here  - [https://code.visualstudio.com/download](https://code.visu
 #### Required Extensions for all developers
 **1. Python extension by Microsoft** - [download](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
-![Python editing]({{ site.baseurl}}/assets/images/vscode/python-editing.gif)
+![Python editing]({{ site.baseurl}}/assets/img/vscode/python-editing.gif)
 - An extension with rich support for the Python language, including features such as linting, debugging, IntelliSense, code navigation, code formatting, refactoring, unit tests, snippets, and more!
 * I personally use **black** code-formatter. we can configure it in our workspace settings in **.vscode** file. This helps to maintain code and code-formatting consistent in development.
     -    Troubleshoot the code formatting plugin in python [here](https://code.visualstudio.com/docs/python/editing)
@@ -43,7 +43,7 @@ Download from here  - [https://code.visualstudio.com/download](https://code.visu
 
 **3. Markdown Renderer Extension** - [download](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 
-![Markdown gif]({{ site.baseurl}}/assets/images/vscode/md-image.png)
+![Markdown gif]({{ site.baseurl}}/assets/img/vscode/md-image.png)
 + Markdown Preview Enhanced is an extension that provides you with many useful functionalities such as automatic scroll sync, math typesetting, mermaid, PlantUML, pandoc, PDF export, code chunk, presentation writer, etc.
 
 **4. Prettier Extension for JavaScript** - [download](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
@@ -57,12 +57,12 @@ Download from here  - [https://code.visualstudio.com/download](https://code.visu
 
 **6. CSS Peek** - [download](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 
-![Markdown gif]({{ site.baseurl}}/assets/images/vscode/css.gif)
+![Markdown gif]({{ site.baseurl}}/assets/img/vscode/css.gif)
 + CSS Peek is a great tool if you keep forgetting what was a CSS class was used for. However, that could also mean that your CSS class names are not meaningful, or you have written too much "unmaintainable" code. Still, this is sure going to be handy if you are viewing/rewriting someone else’s code. 
 
 **7. Debugger for Chrome** - [download](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
-![Markdown gif]({{ site.baseurl}}/assets/images/vscode/chrome.gif)
+![Markdown gif]({{ site.baseurl}}/assets/img/vscode/chrome.gif)
 + Debugger for Chrome is a great tool if you use a debugger in VSC. It allows you to launch an instance of Chrome navigated to your app, or it can attach to a running instance of Chrome. Using the URL parameter, you tell VSC which URL to either open or launch in Chrome.
 
 **8. Gitlens** - [download](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
@@ -71,7 +71,7 @@ Download from here  - [https://code.visualstudio.com/download](https://code.visu
 
 **9. Git File History** - [download](https://marketplace.visualstudio.com/items?itemName=pomber.git-file-history)
 
-![Markdown gif]({{ site.baseurl}}/assets/images/vscode/git-file-history.gif)
+![Markdown gif]({{ site.baseurl}}/assets/img/vscode/git-file-history.gif)
 + This helps to quickly browse the history (edits and commits done by you and others) in a cool and interesting visualization. 
 + you can try this in browser also. you just need to do these three steps.
     1. Go to a file in GitHub (or GitLab, or Bitbucket)
@@ -80,7 +80,7 @@ Download from here  - [https://code.visualstudio.com/download](https://code.visu
 
 **10. Docker Extension** - [download](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
-![Markdown gif]({{ site.baseurl}}/assets/images/vscode/docker.png)
+![Markdown gif]({{ site.baseurl}}/assets/img/vscode/docker.png)
 + The Docker extension makes it easier to build apps that leverage Docker containers. The extension helps scaffold needed files, build Docker images, debug your app inside a container, and an explorer that makes it easy to take actions on containers and images such as start, stop, inspect, remove, and more.
 
 **11. SQL Formatter** - [download](https://marketplace.visualstudio.com/items?itemName=bradymholt.pgformatter)

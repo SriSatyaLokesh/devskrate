@@ -3,7 +3,7 @@ layout: post
 title:  Google's Change the game design challenge
 author: nikhil
 categories: [ google ]
-image: assets/images/google/game-changers.gif
+image: assets/img/google/game-changers.gif
 tags: [google, game design, contest]
 ---
 

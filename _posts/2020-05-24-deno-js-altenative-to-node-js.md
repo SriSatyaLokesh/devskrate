@@ -3,7 +3,7 @@ layout: post
 title:  "What is Deno.js? How this competes with node.js?"
 author: contributor
 categories: [ developerstuff, code]
-image: assets/images/mlogs/js/Deno.js.png
+image: assets/img/mlogs/js/Deno.js.png
 tags: [js, javascript, alternatives]
 ---
 

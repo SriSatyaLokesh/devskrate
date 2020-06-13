@@ -3,7 +3,7 @@ layout: post
 title:  "Mi Notebook 14, Mi Notebook Horizon Edition launched in India."
 author: mohit
 categories: [ Laptop]
-image: assets/images/mi/MiLaptop-Bannerjpg.jpg
+image: assets/img/mi/MiLaptop-Bannerjpg.jpg
 tags: [Xiaomi, Laptop, MiLaptop]
 redirect_from:
   - /mi-notebook-14-and-mi-notebook-14-horizon-edition-specs-and-price/
@@ -33,13 +33,13 @@ Mi Notebook 14 Horizon Edition comes with an all-metal design made of aluminum a
 
 One thing about the Mi Laptop that will stand out to you is the almost **bezel-less anti-glare LCD** with a screen to body ratio of 91 percent. It is a 14 inch IPS LCD display with bezels as thin as 3mm at the top and around the sides, as per the press release. The bottom bezel is slightly thicker to accommodate the Mi logo. It comes with 16:9 aspect ratio with a resolution of 1920 x 1080. The panels comes with a 178-degree viewing angle and can go up to a peak brightness of 250 nits.
 
-![Mi Notebook 14 Horizon Edition Display]({{ site.baseurl}}/assets/images/mi/Mi-Notebook-14-Horizon-Edition-m1.jpg)
+![Mi Notebook 14 Horizon Edition Display]({{ site.baseurl}}/assets/img/mi/Mi-Notebook-14-Horizon-Edition-m1.jpg)
 
 Talking about Internals, The laptop is powered by the **10th-Gen Intel Core Comet Lake processor**, You can either equip this with an i5-10210u or a much powerful i7-10510u. It is coupled with a with 8GB of DDR4 RAM and up to 512GB SSD storage. On the graphical side of things, it comes with a dedicated graphics card namely the Nvidia GeForce MX350 (2GB). This card can handle some casual gaming and also some light video editing.
 
 This laptop comes with a chiclet keyboard (no Numpad) with 1.3mm key travel and a fairly modest-size multi-touch trackpad and it also has a single fan for cooling. Talking about ports, You get a single USB 2.0 port and 3.5mm audio jack on the left. The right edge includes two USB 3.1, one HDMI 1.4b, and one USB Type-C port. You also get WiFi 802.11ac (WiFi 5, 2 x 2) and Bluetooth 5.0 as the wireless connectivity.
 
-![Mi Notebook 14 Horizon Edition Image Of Ports]({{ site.baseurl}}/assets/images/mi/MiNotebook14-ports.jpg)
+![Mi Notebook 14 Horizon Edition Image Of Ports]({{ site.baseurl}}/assets/img/mi/MiNotebook14-ports.jpg)
 
 Mi Notebook 14 Horizon Edition comes with a 46Wh battery, which the company says should last you up to 10 hours on a single charge. It also comes with a 65W fast charger which the company says can juice up your battery from **0 to 50% in just around 30 minutes**, which is quite impressive.
 
@@ -47,7 +47,7 @@ Talking about the software, It comes with windows 10 home edition on board and n
 
 #### Mi Notebook 14:
 
-![Mi Notebook 14 Display]({{ site.baseurl}}/assets/images/mi/mi-notebook-14.jpg)
+![Mi Notebook 14 Display]({{ site.baseurl}}/assets/img/mi/mi-notebook-14.jpg)
 
 The standard Mi Notebook 14 has some considerable differences  – both on the design and internals front. This laptop is a rebranded version of the RedmiBook 14 Pro, which debuted in China back last year.
 

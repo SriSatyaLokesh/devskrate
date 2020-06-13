@@ -3,7 +3,7 @@ layout: post
 title:  Github announced the MLH Fellowship for students
 author: satya
 categories: [ Github, mlogs, students ]
-image: assets/images/mlogs/github/github-mlh.png
+image: assets/img/mlogs/github/github-mlh.png
 tags: [fellowship, internship, mlh-fellowship, github-education]
 ---
 

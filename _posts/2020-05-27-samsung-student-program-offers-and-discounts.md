@@ -3,7 +3,7 @@ layout: post
 title:  "Get Exclusive Benefits on Student Program | Samsung India"
 author: puneeth
 categories: [Student]
-image: assets/images/samsung/samsung-student-program-feature.jpg
+image: assets/img/samsung/samsung-student-program-feature.jpg
 tags: [Student, Offers]
 ---
 
@@ -16,7 +16,7 @@ You can browse through this link: [https://www.samsung.com/in/store/campus/](htt
 But you should login with your educational mail for browsing these offers.
 
 <p align="center">
-  <img width="45%" style="border:0.5px solid black" alt="Samsung Student Program" src="{{site.baseurl}}/assets/images/samsung/samsung-student-program.jpg">
+  <img width="45%" style="border:0.5px solid black" alt="Samsung Student Program" src="{{site.baseurl}}/assets/img/samsung/samsung-student-program.jpg">
 </p>
 *This is the mail we got from samsung
 

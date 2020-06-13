@@ -3,7 +3,7 @@ layout: post
 title:  Google's FooBar - The Secret Hiring Challenge
 author: satya
 categories: [ Google, Developer, Hiring]
-image: assets/images/google/google-foobar.png
+image: assets/img/google/google-foobar.png
 tags: [developerstuff, jobs, students, internship]
 ---
 
@@ -26,7 +26,7 @@ This is how the invitation looks like -
 
 > “You’re speaking our language. Up for a challenge?”
 
-![foobar-invitation]({{ site.baseurl}}/assets/images/google/foobar-invitation.jpg)
+![foobar-invitation]({{ site.baseurl}}/assets/img/google/foobar-invitation.jpg)
 
 ##### How can I take this challenge without an invitation?
 
@@ -34,12 +34,12 @@ We appreciate your interest towards this but, the sad thing is without an invita
 
 As we already said that Google Foobar is an invitation based hiring challenge. That means, you can only take the challenge if you have got the invitation from Google for Foobar.
 
-![foobar-without-invitation]({{ site.baseurl}}/assets/images/google/foobar-without-invitation.jpg)
+![foobar-without-invitation]({{ site.baseurl}}/assets/img/google/foobar-without-invitation.jpg)
 
 ##### What happens after getting an invitation?
 
 When you get the invitation, and you accepted that, you will be redirected to [Google's Foobar](https://foobar.withgoogle.com/) website which looks like a linux command-line interface. 
-![foobar-interface]({{ site.baseurl}}/assets/images/google/foobar-home.jpg)
+![foobar-interface]({{ site.baseurl}}/assets/img/google/foobar-home.jpg)
 
 After you request for the challenge using the command `request`, you will get some files in your Foobar command-line folder which contains some competitive programming question waiting for you.You can submit your answers either in **Java** or **Python**.
 You will get two files to write the solution to your problem statement `solution.java` and `solution.py`. You can write your solution in your preferred language out of these two.
@@ -47,12 +47,12 @@ You will get two files to write the solution to your problem statement `solution
 
 You can `save` and `run` the files and once you're confident you can `submit` and  `verify` the results.
 
-![foobar-coding]({{ site.baseurl}}/assets/images/google/foobar-coding.jpg) 
+![foobar-coding]({{ site.baseurl}}/assets/img/google/foobar-coding.jpg) 
 
 In a similar way you'll have **five** levels to complete.
 
 
-![foobar-levels]({{ site.baseurl}}/assets/images/google/foobar-levels.jpg)
+![foobar-levels]({{ site.baseurl}}/assets/img/google/foobar-levels.jpg)
 
 After you complete all the 5 levels, you get a form to fill your name and your contact details to contact you.
 

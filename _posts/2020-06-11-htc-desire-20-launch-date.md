@@ -3,7 +3,7 @@ layout: post
 title:  "HTC Desire 20 launch date"
 author: puneeth
 categories: [ ANDROID, TECH ]
-image: assets/images/htc-desire-20.png
+image: assets/img/htc-desire-20.png
 tags: [smartphones, android, htc]
 ---
 

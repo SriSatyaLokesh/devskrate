@@ -3,7 +3,7 @@ layout: post
 title:  What is the difference between Scholarship and Fellowship?
 author: satya
 categories: [ Scholarship, Fellowship, students ]
-image: assets/images/mlogs/students/scholarship-fellowship.png
+image: assets/img/mlogs/students/scholarship-fellowship.png
 tags: [internship, student partners, universities]
 ---
 

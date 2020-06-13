@@ -3,7 +3,7 @@ layout: post
 title:  Here's how to customize your Microsoft Teams Background
 author: nikhil
 categories: [ Microsoft, Video calls ]
-image: assets/images/microsoft/microsoft-teams.png
+image: assets/img/microsoft/microsoft-teams.png
 tags: [meetings, lockdown, video calls]
 ---
 
