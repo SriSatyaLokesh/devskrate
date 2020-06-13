@@ -4,6 +4,7 @@ title: "Transfer your media from Facebook to Google Phtos"
 author: nikhil
 categories: [tutorial]
 image: assets/img/internet/fb-tool-feature.jpg
+optimized_image: assets/img/internet/fb-tool-feature.jpg
 tags: [facebook]
 ---
 
