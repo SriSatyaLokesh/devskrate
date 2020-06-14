@@ -12,7 +12,7 @@
         {% assign recommendation = page.next %}
     {% else %}
         {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
-        {% assign shuffled_array = next_posts | shuffle %}
+        {% assign shuffled_array = next_posts | sample: 1 %}
         {% assign recommendation = shuffled_array.first %}
     {% endif %}
     <a href="{{ recommendation.url | prepend: site.baseurl }}" class="post-preview">
