@@ -10,6 +10,7 @@ tags:
 email: youremail@xyz.com
 disqus_username: disqus_username
 show_hero: true
+paginate: 16
 menu:
   - title: Home
     url: /
