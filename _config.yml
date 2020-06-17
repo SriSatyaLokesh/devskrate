@@ -13,7 +13,7 @@ disqus_username: disqus_username
 show_hero: true
 menu:
   - title: Home
-    url: /devskrate
+    url: /
   - title: About
     url: /about
   - title: Contact
@@ -34,13 +34,13 @@ medium_username: medium_username
 
 # Posts Settings
 show_time_bar: true
-show_modal_on_exit: true
+show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "/devskrate" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
