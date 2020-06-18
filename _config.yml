@@ -1,7 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: DevsKrate
+title: DevsKrate | Everything about Tech
+description: Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.
 tags:
   - blog
   - template
@@ -24,12 +24,12 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: DevsKrate
+facebook_username: DevsKrate
+twitter_username: DevsKrate
+instagram_username: DevsKrate
+linkedin_username: DevsKrate
+medium_username: DevsKrate
 
 
 # Posts Settings
@@ -56,7 +56,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 paginate: 16
 # Content paginator
@@ -141,4 +141,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+version: v2.0
