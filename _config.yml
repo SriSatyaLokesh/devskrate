@@ -10,7 +10,7 @@ tags:
   - netlify
 email: youremail@xyz.com
 disqus_username: disqus_username
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
