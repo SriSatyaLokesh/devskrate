@@ -1,7 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: DevsKrate
+title: DevsKrate | Everything about Tech
+description: Here at DevsKrate we inspire and endeavor to share everything about technology like Softwares, Coding, etc., and provide our best about HOW TO tutorials and BEST OF every category in accordance to our knowledge.
 tags:
   - blog
   - template
@@ -11,7 +11,6 @@ tags:
 email: youremail@xyz.com
 disqus_username: disqus_username
 show_hero: true
-paginate: 16
 menu:
   - title: Home
     url: /
@@ -25,12 +24,12 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: DevsKrate
+facebook_username: DevsKrate
+twitter_username: DevsKrate
+instagram_username: DevsKrate
+linkedin_username: DevsKrate
+medium_username: DevsKrate
 
 
 # Posts Settings
@@ -41,7 +40,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
@@ -57,16 +56,16 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
-
+paginate: 16
 # Content paginator
 paginate_content:
   enabled: true
   debug: false
   collections:
     - posts
-  auto: false
+  auto: true
   separator: "--page-break--"
   permalink: "/:num/"
   seo_canonical: true
@@ -78,6 +77,47 @@ paginate_content:
     single:
       is_generated: true
 
+translations:
+  text:
+    new_post: "New Post"
+    see_also: "See also"
+    search: "Search"
+    author: "Author"
+    share: "Share"
+    comments: "Comments"
+  button:
+    read_now: "Read Now"
+    share_on_twitter: "Share on Twitter"
+    share_on_facebook: "Share on Facebook"
+  pagination:
+    page: "Page"
+    of: "of"
+    next_page: "Next Page"
+    next_post: "Previous Page"
+  recommendation:
+    text: "Why don't you read something next?"
+    back_btn: "Go back to top"
+  error_404:
+    title: "Page not found :("
+    message: "I'm sorry. We couldn't find the page you are looking for."
+    image_alt: "404 - Page not found"
+  contact:
+    title: "Talk to me"
+    subject: "New contact!"
+    submit_btn: "Send"
+    placeholders:
+      name: "Your name"
+      email: "Your e-mail"
+      message: "Your message"
+    errors:
+      locale: "en"
+      empty_name: "Name is required"
+      empty_email: "Email is required"
+      invalid_email: "Email is invalid"
+      empty_message: "Message is required"
+    after_send:
+      title: "Message sent!"
+      message: "Thank you for sending me a message. I'm going to answer ASAP."
 # SASS
 sass:
   style: compressed
@@ -101,4 +141,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.0
+version: v2.0
