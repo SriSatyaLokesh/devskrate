@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Work
-slug: work
+slug: [ANDROID, TECH]
 description: A category for work related posts.
 ---
