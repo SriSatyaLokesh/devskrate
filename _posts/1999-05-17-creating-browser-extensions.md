@@ -2,7 +2,7 @@
 layout: post
 title:  "Creating browser extensions"
 author: puneeth
-categories: [ Extensions, Browser]
+category: [ Extensions, Browser]
 image: assets/img/internet/bored-internet.jpg
 optimized_image: assets/img/internet/bored-internet.jpg
 tags: [extensions, browser, script]
