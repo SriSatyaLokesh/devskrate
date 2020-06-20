@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Tech, Android
-slug: android-tech
+title: Tech
+slug: tech
 description: A category for tech related posts.
 ---

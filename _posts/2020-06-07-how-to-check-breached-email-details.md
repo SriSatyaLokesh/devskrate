@@ -2,7 +2,7 @@
 layout: post
 title:  How to check if your email associated accounts are breached
 author: nikhil
-categories: [ security, tech ]
+category: [ security, tech ]
 image: assets/img/security/email-breached.png
 tags: [security, breaches, pwned, hacked]
 ---

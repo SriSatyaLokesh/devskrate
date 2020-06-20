@@ -2,7 +2,7 @@
 layout: post
 title: "Install Chrome OS in a PC"
 author: nikhil
-categories: [tutorial]
+category: [tutorial]
 image: assets/img/chromeos/install-chrome-os.jpg
 optimized_image: assets/img/chromeos/install-chrome-os.jpg
 tags: [chrome os]
