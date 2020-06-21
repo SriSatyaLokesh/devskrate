@@ -142,3 +142,5 @@ exclude: [
 
 # Theme
 version: v2.0
+
+theme: jekyll-theme-minimal
